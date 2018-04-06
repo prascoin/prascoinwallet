@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PrasCoin
+GenericName=PrasCoin wallet
+Name[uk]=Карбованeць
+Name[ru]=Карбованeц
+Name[pl]=PrasCoinwaneć
+Name[be]=Карбованэць
+Name[de]=PrasCoin
+Name[es]=PrasCoin
+Comment=PrasCoin wallet
+Comment[uk]=Гаманець Карбованца
+Comment[ru]=Кошелек Карбованца
+Comment[pl]=Portfel PrasCoinwańca
+Comment[be]=Кашалёк Карбованца
+Comment[de]=PrasCoin Brieftasche
+Comment[es]=PrasCoin Monedero
+Exec=prascoin %U
+Terminal=false
+Type=Application
+Icon=prascoin
+MimeType=x-scheme-handler/prascoin;
+Categories=Office;Finance;
+Version=1.2.3

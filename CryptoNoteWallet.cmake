@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "prascoin")
+set(CN_CURRENCY_DISPLAY_NAME "PrasCoin")
+set(CN_CURRENCY_TICKER "PRAS")
+set(CN_VERSION 1.2.3)
